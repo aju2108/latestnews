@@ -1,0 +1,8 @@
+com/horizonx/latestnews/consumer/LatestNewsConsumer.class
+com/horizonx/latestnews/endpoint/latestnews.json
+com/horizonx/latestnews/beans/LatestNews.class
+com/horizonx/latestnews/component/LatestNewsComponent.class
+com/horizonx/latestnews/endpoint/LatestNewsEndpoint.class
+com/horizonx/latestnews/MyRouteBuilder.class
+com/horizonx/latestnews/configuration/LatestNewsConfiguration.class
+com/horizonx/latestnews/MainApp.class

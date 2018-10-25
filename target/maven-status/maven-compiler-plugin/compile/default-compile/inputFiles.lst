@@ -1,0 +1,7 @@
+/home/ajay/eclipse-workspace/latestnews/src/main/java/com/horizonx/latestnews/consumer/LatestNewsConsumer.java
+/home/ajay/eclipse-workspace/latestnews/src/main/java/com/horizonx/latestnews/endpoint/LatestNewsEndpoint.java
+/home/ajay/eclipse-workspace/latestnews/src/main/java/com/horizonx/latestnews/beans/LatestNews.java
+/home/ajay/eclipse-workspace/latestnews/src/main/java/com/horizonx/latestnews/MyRouteBuilder.java
+/home/ajay/eclipse-workspace/latestnews/src/main/java/com/horizonx/latestnews/component/LatestNewsComponent.java
+/home/ajay/eclipse-workspace/latestnews/src/main/java/com/horizonx/latestnews/MainApp.java
+/home/ajay/eclipse-workspace/latestnews/src/main/java/com/horizonx/latestnews/configuration/LatestNewsConfiguration.java
